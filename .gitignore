@@ -2,3 +2,11 @@
 *.exe
 *.a
 *.dll
+
+# Qt Creator
+*.creator
+*.creator.user
+*.creator.user.*
+*.files
+*.includes
+*.config
