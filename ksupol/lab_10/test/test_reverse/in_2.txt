@@ -1,0 +1,5 @@
+15 apple
+288 cheese
+63 milk
+89 becon
+455 chocolate
