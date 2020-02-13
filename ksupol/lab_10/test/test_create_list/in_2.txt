@@ -1,5 +1,0 @@
-45 apple
-12 watermelon
-255 chicken
-36 potato
-74 almond

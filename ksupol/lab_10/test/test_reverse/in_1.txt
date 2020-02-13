@@ -1,3 +1,0 @@
-488 chicken
-12 apple
-36 watermelon

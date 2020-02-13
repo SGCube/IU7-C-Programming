@@ -1,6 +1,0 @@
-60000 System Administrator
-75000 C-Programmer
-50000 Ñ-Programmer
-150000 Java-Programmer
-75000 System Administrator
-110000 Frontend Developer

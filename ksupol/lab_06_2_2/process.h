@@ -1,1 +1,0 @@
-int process(const int *, const int *const);

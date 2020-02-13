@@ -1,0 +1,3 @@
+150000 Java-Programmer
+75000 C-Programmer
+60000 System Administrator
