@@ -9,7 +9,7 @@
     <th>Статус</th>
    </tr>
    <tr>
-    <th colspan = "7">1 семестр</th>
+    <th colspan = "6">1 семестр</th>
    </tr>
    <tr>
     <td>1</td>
@@ -52,12 +52,11 @@
     <td>✔️</td>
    </tr>
    <tr>
-    <td></td>
     <td colspan="2">Экзамен</td>
     <td>5</td>
    </tr>
    <tr>
-    <th colspan = "7">2 семестр</th>
+    <th colspan = "6">2 семестр</th>
    </tr>
    <tr>
     <td>7</td>
@@ -110,12 +109,11 @@
     <td>✔️</td>
    </tr>
    <tr>
-    <td></td>
     <td colspan="2">Экзамен</td>
     <td>5</td>
    </tr>
    <tr>
-    <th colspan="3">Итог</th>
+    <th colspan="2">Итог</th>
     <th>5</th>
    </tr>
 </table>
